@@ -1,0 +1,3 @@
+{"StoreDetails":{"unit_no":"123456789_123456789$aa","name":"CatCafe"}}
+{"StoreDetails":{"unit_no":"123456789_123456789$bb","name":"DailyWrap"}}
+{"StoreDetails":{"unit_no":"123456789_123456789$cc","name":"PostOffice"}}
